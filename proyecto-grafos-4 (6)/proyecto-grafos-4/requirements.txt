@@ -1,4 +1,0 @@
-pytest
-matplotlib
-numpy
-networkx   # solo para validar, dibujar y comparar rendimiento
