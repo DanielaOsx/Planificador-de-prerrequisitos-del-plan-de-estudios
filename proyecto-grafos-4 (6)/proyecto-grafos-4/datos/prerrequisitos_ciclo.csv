@@ -1,0 +1,15 @@
+prerrequisito,materia
+PLM,CD
+CD,CI
+ALG,MAS
+ALG,ED
+MAS,BD
+MAS,PAT
+ED,FCC
+ED,AA
+CI,AA
+BD,WEB
+PAT,ARQ
+FCC,AA
+WEB,ARQ
+ARQ,ALG

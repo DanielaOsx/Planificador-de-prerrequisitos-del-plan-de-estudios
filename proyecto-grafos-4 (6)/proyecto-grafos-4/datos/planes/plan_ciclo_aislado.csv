@@ -1,0 +1,7 @@
+codigo,nombre,prerrequisitos
+A1,Materia A1,
+A2,Materia A2,A1
+A3,Materia A3,A2
+C1,Materia C1,C3
+C2,Materia C2,C1
+C3,Materia C3,C2

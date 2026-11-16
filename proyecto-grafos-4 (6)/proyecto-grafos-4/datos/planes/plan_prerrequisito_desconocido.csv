@@ -1,0 +1,13 @@
+codigo,nombre,prerrequisitos
+PLM,Pensamiento Lógico Matemático,
+CD,Cálculo Diferencial,PLM
+ALG,Algoritmia,
+MAS,Modelo y Análisis de Software Orientado a Objetos,ALG
+ED,Estructura de Datos e Información,ALG
+CI,Cálculo Integral,CD
+BD,Diseño y Modelación de Base de Datos,MAS
+PAT,Patrones de Desarrollo de Software,MAS
+FCC,Fundamentos en Ciencias de la Computación,ED
+AA,Análisis de Algoritmos,ED;CI;FCC
+WEB,Desarrollo de Aplicaciones Web,BD
+ARQ,Arquitectura de Software,PAT;NOEXISTE
